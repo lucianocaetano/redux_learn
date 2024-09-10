@@ -1,1 +1,1 @@
-Acabo de repasar mis conocimientos de redux y redux toolkit con react
+Practica redux y redux toolkit reac
